@@ -1,0 +1,14 @@
+C:\Users\betyk\OneDrive\C#\Software Design project\bin\Debug\net9.0\Software Design project.exe
+C:\Users\betyk\OneDrive\C#\Software Design project\bin\Debug\net9.0\Software Design project.deps.json
+C:\Users\betyk\OneDrive\C#\Software Design project\bin\Debug\net9.0\Software Design project.runtimeconfig.json
+C:\Users\betyk\OneDrive\C#\Software Design project\bin\Debug\net9.0\Software Design project.dll
+C:\Users\betyk\OneDrive\C#\Software Design project\bin\Debug\net9.0\Software Design project.pdb
+C:\Users\betyk\OneDrive\C#\Software Design project\obj\Debug\net9.0\Software Design project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\betyk\OneDrive\C#\Software Design project\obj\Debug\net9.0\Software Design project.AssemblyInfoInputs.cache
+C:\Users\betyk\OneDrive\C#\Software Design project\obj\Debug\net9.0\Software Design project.AssemblyInfo.cs
+C:\Users\betyk\OneDrive\C#\Software Design project\obj\Debug\net9.0\Software Design project.csproj.CoreCompileInputs.cache
+C:\Users\betyk\OneDrive\C#\Software Design project\obj\Debug\net9.0\Software Design project.dll
+C:\Users\betyk\OneDrive\C#\Software Design project\obj\Debug\net9.0\refint\Software Design project.dll
+C:\Users\betyk\OneDrive\C#\Software Design project\obj\Debug\net9.0\Software Design project.pdb
+C:\Users\betyk\OneDrive\C#\Software Design project\obj\Debug\net9.0\Software Design project.genruntimeconfig.cache
+C:\Users\betyk\OneDrive\C#\Software Design project\obj\Debug\net9.0\ref\Software Design project.dll
